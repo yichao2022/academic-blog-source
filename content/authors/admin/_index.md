@@ -11,7 +11,7 @@ last_name: Jin
 
 # Status emoji
 status:
-  icon: 🦞
+  icon: ""
 
 # Is this the main user of the site?
 superuser: true
@@ -58,6 +58,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yichao-jin/
+  - icon: cv
+    icon_pack: ai
+    link: https://yichao2022.github.io/cv.pdf
 
 # Organizational groups that author belongs to (for People widget)
 user_groups:

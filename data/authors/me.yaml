@@ -8,7 +8,7 @@ name:
   pronunciation: Yi-chao Jin
   pronouns: he/him
 status:
-  icon: "🦞"
+  icon: ""
 role: PhD Candidate in Public Policy and Political Economy
 bio: My research interests include behavioral economics, discrete choice experiments, and public policy.
 affiliations:
@@ -25,8 +25,8 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yichao-jin/
   - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: https://yichao2022.github.io/cv.pdf
+    label: Curriculum Vitae
   - icon: rss
     url: ./blog/index.xml
     label: Subscribe to my blog via RSS feed
