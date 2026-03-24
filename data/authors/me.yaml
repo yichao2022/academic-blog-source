@@ -2,31 +2,31 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
-  pronouns: she/her
+  display: Yichao Jin (Cary)
+  given: Yichao
+  family: Jin
+  pronunciation: Yi-chao Jin
+  pronouns: he/him
 status:
-  icon: "☕️"
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  icon: "🦞"
+role: PhD Candidate in Public Policy and Political Economy
+bio: My research interests include behavioral economics, discrete choice experiments, and public policy.
 affiliations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Texas at Dallas
+    url: https://www.utdallas.edu/
 links:
   - icon: at-symbol
-    url: mailto:your-email@example.com
+    url: mailto:yichao.jin@utdallas.edu
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/MakeOwnable
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/yichao2022
+  - icon: brands/github
+    url: https://github.com/yichao2022
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yichao-jin/
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
   - icon: rss
-    url: ./post/index.xml
+    url: ./blog/index.xml
     label: Subscribe to my blog via RSS feed
