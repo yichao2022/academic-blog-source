@@ -3,7 +3,7 @@ title: "Embodied AI & Behavioral Modeling: From Unitree G1 to Smart Grid Optimiz
 summary: "Exploring the bridge between 'hardcore' robotics and behavioral economics. How embodied intelligence provides a micro-foundation for autonomous energy decision-making."
 date: 2026-03-24
 authors:
-  - me
+  - admin
 tags:
   - Embodied AI
   - Robotics
@@ -11,6 +11,10 @@ tags:
   - Smart Grid
   - Princeton PPPP
   - UCSD
+image:
+  caption: 'Robotics meets Behavioral Logic'
+  focal_point: 'Smart'
+  preview_only: false
 ---
 
 Is it possible to "run" a behavioral economics model on a robot? 

@@ -3,12 +3,16 @@ title: "Waiting Time as a Behavioral Barrier: Unmasking Procrastination in Vacci
 summary: "Why do we delay vaccination? New research suggests 'time-to-protection' is as critical as efficacy, driven by hyperbolic discounting and present bias."
 date: 2026-03-24
 authors:
-  - me
+  - admin
 tags:
   - Behavioral Economics
   - Public Health
   - Mixed Logit
   - Vaccination
+image:
+  caption: 'Behavioral friction of time'
+  focal_point: 'Smart'
+  preview_only: false
 ---
 
 In the realm of public health, we often focus on **safety** and **efficacy** as the primary drivers of vaccine uptake. However, our recent research reveals a hidden, yet potent structural barrier: **Waiting Time**.

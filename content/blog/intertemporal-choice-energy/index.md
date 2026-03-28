@@ -3,13 +3,17 @@ title: "Intertemporal Choice & Hyperbolic Discounting: From Vaccines to Energy P
 summary: "How do we balance long-term gains against short-term costs? Exploring the link between vaccination delays and the 'short-sighted' path of energy policy."
 date: 2026-03-24
 authors:
-  - me
+  - admin
 tags:
   - Behavioral Economics
   - Intertemporal Choice
   - Hyperbolic Discounting
   - Energy Policy
   - Princeton PPPP
+image:
+  caption: 'Present vs Future'
+  focal_point: 'Smart'
+  preview_only: false
 ---
 
 Individual decision-making often suffers from a fundamental conflict: **The present self wants comfort, while the future self needs security.** 

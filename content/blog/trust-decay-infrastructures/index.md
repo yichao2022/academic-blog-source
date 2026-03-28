@@ -3,13 +3,17 @@ title: "Trust Decay in Infrastructures: When Policy Meets Polarized Information"
 summary: "Why do 'perfect' policies fail in the real world? Exploring how institutional trust and misinformation disrupt decision-making in digitalized environments."
 date: 2026-03-24
 authors:
-  - me
+  - admin
 tags:
   - Institutional Trust
   - Information Science
   - Misinformation
   - UC Berkeley I School
   - Energy Policy
+image:
+  caption: 'Trust as an Invisible Infrastructure'
+  focal_point: 'Smart'
+  preview_only: false
 ---
 
 In traditional policy modeling, we often operate under a dangerous assumption: **Perfect Execution.** We assume that if a policy is scientifically sound and economically efficient, it will be adopted and followed. 
